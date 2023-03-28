@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.maincontainer{
+   width: 50%;
+margin: auto;
+}
